@@ -27,11 +27,11 @@ function App() {
       
         
 
-        <Route exact path="/home" component={Home} />
+        <Route exact path="/" component={Home} />
 
 
               <Route path='*'>
-              <Redirect to="/home" />
+              <Redirect to="/" />
               </Route>  
 
       
