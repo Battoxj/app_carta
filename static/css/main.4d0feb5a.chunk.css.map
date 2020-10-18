@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,gBACI,qBAAsB,CACtB,eAAiB,CACjB,iBAAkB,CAClB,WACA","file":"main.4d0feb5a.chunk.css","sourcesContent":["div[class|=\"col\"] {\r\n    border: 1px solid #ddd;\r\n    background : #fff;\r\n    text-align: center;\r\n    padding: 1em;\r\n    }"]}
