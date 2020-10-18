@@ -1,0 +1,6 @@
+div[class|="col"] {
+    border: 1px solid #ddd;
+    background : #fff;
+    text-align: center;
+    padding: 1em;
+    }
