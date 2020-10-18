@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f2e49c27a03e4ab5f698141b9d8ec4e",
+    "revision": "526bcca4899650b6b463ea05f44b3ae1",
     "url": "/app_carta/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app_carta/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "5de1ee0e531958b500e2",
+    "revision": "7abd313aa29dec5614ac",
     "url": "/app_carta/static/css/main.4d0feb5a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app_carta/static/js/2.d97e7082.chunk.js"
   },
   {
-    "revision": "5de1ee0e531958b500e2",
-    "url": "/app_carta/static/js/main.90ef8b79.chunk.js"
+    "revision": "7abd313aa29dec5614ac",
+    "url": "/app_carta/static/js/main.75226dd0.chunk.js"
   },
   {
     "revision": "c04f36765ce0cd01592b",
