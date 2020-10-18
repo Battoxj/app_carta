@@ -29,7 +29,7 @@ function App() {
 
         <Route exact path="/" component={Home} />
 
-
+        <p>HOLA MUNDO</p>
              
 
       
