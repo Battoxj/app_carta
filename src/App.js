@@ -31,7 +31,7 @@ function App() {
    
    
       <MenuBar/>
-      <div className="container p-4">
+      <div className="container">
       
 
         
@@ -44,6 +44,13 @@ function App() {
                      <img src={gohan} />
 
                      </Celda>
+                     
+
+                </Fila>
+
+
+                <Fila>
+                     
                      <Celda t={6} >
 
                      <img src={cuantos} />
