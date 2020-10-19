@@ -14,7 +14,7 @@
     "reactstrap": "^8.0.1"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy":"npm run build && echo progjl.xyz > ./build/CNAME",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

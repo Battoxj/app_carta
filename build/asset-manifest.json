@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/app_carta/static/css/main.4d0feb5a.chunk.css",
-    "main.js": "/app_carta/static/js/main.0887f125.chunk.js",
-    "main.js.map": "/app_carta/static/js/main.0887f125.chunk.js.map",
+    "main.js": "/app_carta/static/js/main.dd6d3d15.chunk.js",
+    "main.js.map": "/app_carta/static/js/main.dd6d3d15.chunk.js.map",
     "runtime~main.js": "/app_carta/static/js/runtime~main.f2918d00.js",
     "runtime~main.js.map": "/app_carta/static/js/runtime~main.f2918d00.js.map",
     "static/css/2.266e55a5.chunk.css": "/app_carta/static/css/2.266e55a5.chunk.css",
     "static/js/2.a92dc50a.chunk.js": "/app_carta/static/js/2.a92dc50a.chunk.js",
     "static/js/2.a92dc50a.chunk.js.map": "/app_carta/static/js/2.a92dc50a.chunk.js.map",
     "index.html": "/app_carta/index.html",
-    "precache-manifest.4f3f8432698f7d58c5834953540444a1.js": "/app_carta/precache-manifest.4f3f8432698f7d58c5834953540444a1.js",
+    "precache-manifest.7f314abe661ac0cc4f4a314b53f2d183.js": "/app_carta/precache-manifest.7f314abe661ac0cc4f4a314b53f2d183.js",
     "service-worker.js": "/app_carta/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/app_carta/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.4d0feb5a.chunk.css.map": "/app_carta/static/css/main.4d0feb5a.chunk.css.map",
-    "static/media/cuantos.png": "/app_carta/static/media/cuantos.e5a4809b.png",
+    "static/media/cuantos.png": "/app_carta/static/media/cuantos.f69ca570.png",
     "static/media/gohan.png": "/app_carta/static/media/gohan.e72b4710.png"
   }
 }
